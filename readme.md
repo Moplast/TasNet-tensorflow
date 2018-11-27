@@ -28,5 +28,5 @@ generate datasets and change the path in `tf_train.py`.
 * `tf_train.py` trains the model. Rewrite the dataset path with your own path.
 * `tf_test.py` evaluates the model performance. This code hasn't been written well, still under 
 repair.
-* `mir_eval.py` and `mir_util.py` are forked from [ododoyo's](https://github.com/ododoyo/TASNET), 
-, implementing bss_eval calculation in Python rather than MATLAB.
+* `mir_eval.py` and `mir_util.py` are forked from [ododoyo's](https://github.com/ododoyo/TASNET),
+implementing bss_eval calculation in Python rather than MATLAB.
